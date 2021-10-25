@@ -6,12 +6,12 @@ This project is based off of an assignment given in my 350 level Software Design
  
   ### Assingment 1: Build an Array class 
   
-    **Given:** Array.h 
+    **Given** : Array.h 
     
     Build a functioning array class that fit the structure and worked with all of the methods defined in the Array.h file given. We also had
     to learn how to build the assingments makefile using a system called MPC. 
   
-    **Design Points:**
+    **Design Points** :
   
   ### Assignment 2: Build Stack, Queue, and Fixed_Array classes implemented with C++ Templates
   
