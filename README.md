@@ -4,7 +4,7 @@
 
 This project is based off of an assignment given in my 350 level Software Design course. The current state specifically is the result of two assignments:
  
-  ### Assingment 1: Build an Array class ( chars only )
+  ### Assingment 1: Build an Array class 
   
     **Given:** Array.h 
     
@@ -20,6 +20,6 @@ This project is based off of an assignment given in my 350 level Software Design
     The second assingnment was to build Stack, Queue, and Fixed Array's ( which cannot be resized ) that will also work for any datatype using Template 
     programming. We were given the Stack.h and Fixed_Array.h files but allowed to structure the Queue.h any way we felt.
     
-    **Design Points:**
+    **Design Points:
     
     
